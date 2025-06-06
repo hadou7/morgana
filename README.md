@@ -1,1 +1,3 @@
-# Modular ESP-32 Powered Coffee Machine with a custom boiler, steamer and voice-assisted brewing
+# Morgana:  A Modular ESP-32 Powered Coffee Machine with a custom boiler, steamer and voice-assisted brewing
+
+
