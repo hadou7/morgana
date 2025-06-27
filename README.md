@@ -1,4 +1,4 @@
-# Morgana:  A Modular ESP-32 Powered Coffee Machine with a custom boiler, steamer and voice-assisted brewing
+# Morgana:  A Modular ESP-32 Powered Coffee Machine with a custom boiler, steamer and automated brewing
 
 **Morgana** is a modular, low-voltage-controlled, high-voltage-powered espresso machine boiler. Built from scratch, Morgana features:
 
@@ -27,7 +27,7 @@
 | Power         | ✅ 24V PSU + SSR-40DA |
 | Solenoids     | 🔄 Sourcing 2x G1/4 24V valves |
 | Heater        | 🔄 Selecting 230V 600–800W unit |
-| Control       | ✅ Arduino Uno (bang-bang) |
+| Control       | ✅ ESP32 (bang-bang) |
 | Display       | ✅ OLED (SSD1306) |
 
 ---
